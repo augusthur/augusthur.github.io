@@ -34,8 +34,8 @@
           <li class="checkmark">
             <div>Virtuagora</div>
             <div class="text-lg text-gray-600">
-              Virtuagora is a citizen participation digital platform I cofunded and we deployed arround 10 instances
-              for local goverments and civil society organizations. Some examples are 
+              Virtuagora is a citizen participation digital platform I co-funded and we deployed more than 10 instances
+              for local governments and civil society organizations. Some examples are 
               <a href="https://ingenia.virtuagora.org/">Ingenia</a>, 
               <a href="https://pp.sanlorenzo.gob.ar">San Lorenzo's participatory
               budget</a>, and <a href="https://creatingnetworks.youthsig.org">Creating Networks</a>.
@@ -47,15 +47,15 @@
               I started at <a href="https://lyris.com.ar">Lyris</a> as developer and consultant, building digital
               transformation solutions based on documents management, public key infrastructures and digital
               signatures. Currently I'm its CTO and project manager of
-              <a href="https://docs.signar.com.ar/release-notes/10.0.html">Signar</a> our flagship software.
+              <a href="https://docs.signar.com.ar/release-notes/10.0.html">Signar</a>, our flagship software.
             </div>
           </li>
           <li class="checkmark">
             <div>Youth IGF Argentina 🇦🇷</div>
             <div class="text-lg text-gray-600">
               Youth Initiatives of the IGF are created with a goal of encouraging and involving young people in a
-              substantive discussion on Internet governance. I was a founding member of the youth argentina and I'm
-              currently an active comite member. I'm also maintaining its 
+              substantive discussion on Internet governance. I was a founding member of the Youth Argentina and I'm
+              currently an active committee member. I'm also maintaining its 
               <a href="https://youthigfargentina.com.ar">website</a>.
             </div>
           </li>
@@ -64,7 +64,7 @@
             <div class="text-lg text-gray-600">
               Embajadores is a non-profit initiative created by 2016 fellows of ISOC's Youth@IGF program. We aim to
               introduce people in the Internet governance ecosystem generating content in Spanish. You can check our
-              <a href="https://www.embajadoresdeinternet.org">website</a>, which I created and I'm in charge of maitaining it.
+              <a href="https://www.embajadoresdeinternet.org">website</a>, which I created and I'm in charge of maintaining it.
             </div>
           </li>
           <li class="checkmark">
@@ -76,7 +76,7 @@
               <a href="https://fortproject.net">FORT</a> is a joint initiative by LACNIC and NIC.MX to contribute to
               RPKI deployment and a more secure and resilient Internet. I joined FORT as a consultant in 2019 and I
               made its <a href="https://www.lacnic.net/innovaportal/file/4298/1/fort-informe-seguridad-ruteo-en.pdf">
-              Diagnostic Report</a>. Later, I continued doing research work with LACNIC related to BGP interconection
+              Diagnostic Report</a>. Later, I continued doing research work with LACNIC related to BGP interconnection
               in the LAC region. You can read <a href="https://www.lacnic.net/innovaportal/file/4298/1/lacnic-interconexion-bgp-lac-en.pdf">
               our report</a> or take a look at the <a href="https://github.com/LACNIC/bgplac-toolkit">data toolkit</a>
               I developed to extract data from global BGP collectors and get relevant data about the autonomous systems
@@ -112,7 +112,7 @@
           <div class="flex-1 text-lg sm:text-xl ml-6">
             Argentinian Information Systems Engineer. Teacher at Universidad Tecnológica Nacional Santa Fe, co-founder of
             Virtuágora and CTO of Lyris IT. Internet Society’s 25 under 25 awardee. You can watch the following webinar I
-            conducted about BGP Interconnection in Latinamerica.
+            conducted about BGP Interconnection in Latin America.
           </div>
         </div>
 
